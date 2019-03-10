@@ -9,11 +9,14 @@
 import UIKit
 
 class ListVC: UIViewController {
+    
+    var locationsArray = [String]()
+    var currentPage = 0
 
     override func viewDidLoad() {
         super.viewDidLoad()
 
-        // Do any additional setup after loading the view.
+     
     }
     
 
