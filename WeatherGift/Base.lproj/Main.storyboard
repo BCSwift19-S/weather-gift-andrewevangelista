@@ -128,7 +128,7 @@
                                     <barButtonItem style="plain" systemItem="flexibleSpace" id="Tcv-2w-FFG"/>
                                     <barButtonItem systemItem="add" id="kQx-z5-hJN">
                                         <connections>
-                                            <action selector="addBarButtonPressed:" destination="TUL-li-U56" id="AJl-BT-znw"/>
+                                            <action selector="addBarButtonPressed:" destination="TUL-li-U56" id="C4l-nV-s9Q"/>
                                         </connections>
                                     </barButtonItem>
                                 </items>
