@@ -17,9 +17,9 @@ class WeatherLocation {
     func getWeather(){
         let weatherURL = urlBase + urlAPIKey + coordinates
         print(weatherURL)
-        Alamofire.Request(weatherURL).responseJSON { response in
+        AF.request(weatherURL).responseJSON { response in
                 print(response)
-            
+           
         }
         
     }
