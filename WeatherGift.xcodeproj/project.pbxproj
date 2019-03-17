@@ -16,6 +16,7 @@
 		E7248957222A2E6F007FB8D4 /* ListVC.swift in Sources */ = {isa = PBXBuildFile; fileRef = E7248956222A2E6F007FB8D4 /* ListVC.swift */; };
 		E7248959222A3329007FB8D4 /* PageVC.swift in Sources */ = {isa = PBXBuildFile; fileRef = E7248958222A3329007FB8D4 /* PageVC.swift */; };
 		E7611019223C3567007DF8C0 /* WeatherLocation.swift in Sources */ = {isa = PBXBuildFile; fileRef = E7611018223C3567007DF8C0 /* WeatherLocation.swift */; };
+		E761101B223F0168007DF8C0 /* constants.swift in Sources */ = {isa = PBXBuildFile; fileRef = E761101A223F0168007DF8C0 /* constants.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -32,6 +33,7 @@
 		E7248956222A2E6F007FB8D4 /* ListVC.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ListVC.swift; sourceTree = "<group>"; };
 		E7248958222A3329007FB8D4 /* PageVC.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PageVC.swift; sourceTree = "<group>"; };
 		E7611018223C3567007DF8C0 /* WeatherLocation.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = WeatherLocation.swift; sourceTree = "<group>"; };
+		E761101A223F0168007DF8C0 /* constants.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = constants.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -87,6 +89,7 @@
 				E7248954222A281C007FB8D4 /* DetailVC.swift */,
 				E7248942222A279A007FB8D4 /* AppDelegate.swift */,
 				E7248958222A3329007FB8D4 /* PageVC.swift */,
+				E761101A223F0168007DF8C0 /* constants.swift */,
 				E7611018223C3567007DF8C0 /* WeatherLocation.swift */,
 				E7248956222A2E6F007FB8D4 /* ListVC.swift */,
 				E7248946222A279A007FB8D4 /* Main.storyboard */,
@@ -247,6 +250,7 @@
 				E7248959222A3329007FB8D4 /* PageVC.swift in Sources */,
 				E7248943222A279A007FB8D4 /* AppDelegate.swift in Sources */,
 				E7248955222A281C007FB8D4 /* DetailVC.swift in Sources */,
+				E761101B223F0168007DF8C0 /* constants.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
